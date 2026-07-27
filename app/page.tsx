@@ -34,7 +34,7 @@ export default function Home() {
 
         <a className="next-step" href="#escolha">
           <span><strong>Escolha seu próximo passo</strong><small>Veja os caminhos disponíveis</small></span>
-          <b aria-hidden="true">↓</b>
+          <b aria-hidden="true">{"↓︎"}</b>
         </a>
       </section>
 
@@ -56,7 +56,7 @@ export default function Home() {
       </section>
 
       <footer><a className="wordmark" href="#top">Thaylor <span>Jobs</span></a><span>© 2026 • Todos os direitos reservados</span></footer>
-      <a className="team-float" href="https://api.whatsapp.com/message/IUGU3RYNWTQWG1?autoload=1&app_absent=0" target="_blank" rel="noreferrer">Fale com a equipe <b>↗</b></a>
+      <a className="team-float" href="https://api.whatsapp.com/message/IUGU3RYNWTQWG1?autoload=1&app_absent=0" target="_blank" rel="noreferrer">Fale com a equipe <b>{"↗︎"}</b></a>
     </main>
   );
 }
